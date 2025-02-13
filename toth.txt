@@ -1,3 +1,7 @@
 Hello World
+<<<<<<< HEAD
 Szia Ákos
 Ma irodalom doga
+=======
+megvan
+>>>>>>> 4c259e89a48f8f1e4438ef8c8727a6cca903e40c
